@@ -642,64 +642,6 @@
 			x: -1.5d
 			y: -0.5d
 		}
-		{
-			id: "1269E8825E3D5F50"
-			tasks: [{
-				dimension: "minecraft:overworld"
-				id: "0B97171EC98AD29E"
-				type: "dimension"
-			}]
-			x: -20.5d
-			y: -2.0d
-		}
-		{
-			id: "5EF2AF41269F9657"
-			tasks: [{
-				entity: "minecraft:zombie"
-				id: "15AE63C5A6075F32"
-				type: "kill"
-				value: 100L
-			}]
-			x: -36.5d
-			y: -2.5d
-		}
-		{
-			id: "589A170F17D4A8C6"
-			tasks: [{
-				count: 12L
-				id: "5D83EAD34E09ADD3"
-				item: { Count: 12, id: "minecraft:oak_wood" }
-				type: "item"
-			}]
-			x: -57.0d
-			y: 2.0d
-		}
-		{
-			id: "05D8C3B2EAC54327"
-			tasks: [{
-				advancement: "lootr:1shulker"
-				criterion: ""
-				id: "749A2442C481739F"
-				optional_task: true
-				type: "advancement"
-			}]
-			x: -85.0d
-			y: 5.5d
-		}
-		{
-			id: "55E0B096A7FA8CFA"
-			tasks: [{
-				dimension: "minecraft:overworld"
-				disable_toast: true
-				id: "399FD7BE8BD4D916"
-				optional_task: true
-				tags: ["dwaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddddddddddddddddddddddddddddddd"]
-				type: "dimension"
-			}]
-			title: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-			x: -105.5d
-			y: 2.0d
-		}
 	]
 	title: "{atm9.chapters.7.title}"
 }

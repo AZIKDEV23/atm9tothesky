@@ -155,6 +155,9 @@
 	#Chance on 1000 that a soul appears on a grave [0..1000|default:100]
 	#Range: 0 ~ 1000
 	chance_soul = 100
+	#Chance to receive a random beneficial spell effect when praying near a grave [0..100|default:30]
+	#Range: 0 ~ 100
+	chance_pray_reward = 30
 
 #Options related to the command recovery and auto-save of players
 [recovery]

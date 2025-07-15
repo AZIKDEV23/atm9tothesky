@@ -35,8 +35,6 @@ EnableAdvancedConfig = false
     #
     OutputMultiplier = 3.0
 
-    FuelOutputItem = "biggerreactors:uranium_ingot"
-
     #
     # Valid range: (0,)
     # Default: 100000
