@@ -1,0 +1,39 @@
+Detected that Windows has terminated one or more processes within the last minute leading up to the moment of the current Minecraft JVM instance termination,
+so with a very high probability that one of these processes is the Minecraft JVM itself.
+Command used to identify terminated processes:
+ 
+$ErrorActionPreference = 'Continue'; 
+Get-WinEvent -FilterHashtable @{ 
+  LogName='Application'; 
+  Level=2; 
+  StartTime=(Get-Date).AddMinutes(-1) 
+} *>&1 | Format-Table -Wrap -AutoSize | Out-File "win_event1750742194574.txt" -Encoding UTF8
+ 
+If no java.exe (or related JVM processes) are listed below, you can disregard this message.
+To get more information about such errors:
+1) Open Windows Event Viewer (Win+R -> eventvwr.msc -> Enter).
+2) Click "Windows Logs" -> "Application".
+3) Look for the latest Error you have.
+ 
+ ﻿
+
+   ProviderName: Application Error
+
+TimeCreated           Id LevelDisplayName Message                                                                      
+-----------           -- ---------------- -------                                                                      
+24.06.2025 10:27:24 1000 Ошибка           Имя сбойного приложения: RtkAudUService64.exe, версия: 1.1.651.1, метка време
+                                          ни: 0x669f5c9e                                                               
+                                          Имя сбойного модуля: RPCRT4.dll, версия: 10.0.26100.4202, метка времени: 0xf6
+                                          75fff2                                                                       
+                                          Код исключения: 0xc0000005                                                   
+                                          Смещение ошибки: 0x0000000000058735                                          
+                                          Идентификатор сбойного процесса: 0x247C                                      
+                                          Время запуска сбойного приложения: 0x1DBE4C3AAB85881                         
+                                          Путь сбойного приложения: C:\Windows\System32\DriverStore\FileRepository\real
+                                          tekservice.inf_amd64_1de4e7b6b72073a3\RtkAudUService64.exe                   
+                                          Путь сбойного модуля: C:\WINDOWS\System32\RPCRT4.dll                         
+                                          Идентификатор отчета: faef7eb8-d88a-482d-8c01-1adbbeb48c3e                   
+                                          Полное имя сбойного пакета:                                                  
+                                          Код приложения, связанного со сбойным пакетом:                               
+
+

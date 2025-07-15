@@ -1,0 +1,78 @@
+[19:57:55] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:57:55] [INIT] Loaded plugins:
+[19:57:55] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:57:55] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[19:57:55] [INIT] - thedarkcolour.exdeorum.compat.kubejs.ExDeorumKubeJsPlugin
+[19:57:55] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
+[19:57:55] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[19:57:55] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[19:57:55] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[19:57:55] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[19:57:55] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
+[19:57:55] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[19:57:58] [INFO] Loaded script server_scripts:postUnify/_before.js in 0.015 s
+[19:57:58] [INFO] Loaded script server_scripts:postUnify/dust.js in 0.002 s
+[19:57:58] [INFO] Loaded script server_scripts:postUnify/wires.js in 0.002 s
+[19:57:58] [INFO] Loaded script server_scripts:postUnify/storage_blocks.js in 0.001 s
+[19:57:58] [INFO] Loaded script server_scripts:postUnify/ingots.js in 0.002 s
+[19:57:58] [INFO] Loaded script server_scripts:postUnify/nuggets.js in 0.001 s
+[19:57:58] [INFO] Loaded script server_scripts:postUnify/raw_materials.js in 0.001 s
+[19:57:58] [INFO] Loaded script server_scripts:postUnify/plates.js in 0.001 s
+[19:57:58] [INFO] Loaded script server_scripts:postUnify/rods.js in 0.001 s
+[19:57:58] [INFO] Loaded script server_scripts:postUnify/gears.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:disable.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:modpack/atm_metals.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:modpack/atm_shard.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:modpack/atm_star_creative.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:modpack/atm_star_shards.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:modpack/atm_templates.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:modpack/patrick_star.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/advanced_ae/recipes.js in 0.001 s
+[19:57:58] [INFO] mods/ae/recipes.js#4: Loaded Java class 'net.minecraft.world.item.DyeColor'
+[19:57:58] [INFO] Loaded script server_scripts:mods/ae/recipes.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/alchemistry/recipes.js in 0.001 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/AppliedE/AppliedE.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/atm/creative.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/biggerreactors/recipes.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/cobblefordays/cobblegen.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/corail_tombstone/Nuke_Eggs.js in 0.001 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/create/create.js in 0.001 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/dank/recipes.js in 0.0 s
+[19:57:58] [INFO] mods/enderio/soul_vial.js#4: Loaded Java class 'net.minecraftforge.registries.ForgeRegistries'
+[19:57:58] [INFO] mods/enderio/soul_vial.js#5: Loaded Java class 'net.minecraft.world.entity.ai.attributes.DefaultAttributes'
+[19:57:58] [INFO] mods/enderio/soul_vial.js#6: Loaded Java class 'net.minecraftforge.common.Tags'
+[19:57:58] [INFO] mods/enderio/soul_vial.js#7: Loaded Java class 'com.enderio.base.common.tag.EIOTags'
+[19:57:58] [INFO] Loaded script server_scripts:mods/enderio/soul_vial.js in 0.005 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/exdeorum/exdeorum.js in 0.002 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/exdeorum/pebbles.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/exdeorum/sieveremovals.js in 0.002 s
+[19:57:58] [INFO] mods/farmingforblockheads/market.js#60: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
+[19:57:58] [INFO] Loaded script server_scripts:mods/farmingforblockheads/market.js in 0.002 s
+[19:57:58] [INFO] mods/flux/dust.js#4: Loaded Java class 'net.minecraft.sounds.SoundEvents'
+[19:57:58] [INFO] mods/flux/dust.js#5: Loaded Java class 'net.minecraft.sounds.SoundSource'
+[19:57:58] [INFO] mods/flux/dust.js#6: Loaded Java class 'net.minecraft.core.particles.ParticleTypes'
+[19:57:58] [INFO] Loaded script server_scripts:mods/flux/dust.js in 0.003 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/functionalstorage/recipes.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/hostileneuralnetworks/hnn.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/industrial_foregoing/recipes.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/mekanism/mekanism.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/minecraft/recipes.js in 0.001 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/misc/recipes.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/mob_grinding_utils/recipes.js in 0.0 s
+[19:57:58] [INFO] mods/mysticalagriculture/crops.js#4: Loaded Java class 'com.blakebr0.mysticalagriculture.registry.CropRegistry'
+[19:57:58] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crops.js in 0.002 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/mysticalagriculture/recipes.js in 0.006 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/oreberry/oreberry.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/projecte/projecte.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/reliquary/reliquary.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/thermal/recipes.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/thermal/rock_gen.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:mods/xycraft/rock_gen_kivi.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:summoning/summoning.js in 0.0 s
+[19:57:58] [INFO] Loaded script server_scripts:tags.js in 0.001 s
+[19:57:58] [INFO] Loaded 50/50 KubeJS server scripts in 0.089 s with 0 errors and 0 warnings
+[19:57:58] [INFO] Scripts loaded
+[19:57:58] [INFO] Initializing recipe event...
+[19:57:58] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[19:57:58] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[19:58:09] [INFO] Server resource reload complete!

@@ -1,0 +1,33 @@
+[2025-07-14 22:39:34.927] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: JVM args: [-XX:+UseSerialGC, -XX:MaxHeapFreeRatio=30, -XX:MinHeapFreeRatio=10, -XX:MaxGCPauseMillis=10000, -Xms8m, -Xmx512m]
+[2025-07-14 22:39:34.929] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: program args: [-jarPath, C:\Users\user\AppData\Roaming\.minecraft\versions\All the Mods 9 - To the Sky - atm9sky atm9sky-1.1.8\local\crash_assistant\9192_1752514732_app.jar, -parentPID, 9192, -parentStarted, 1752514732088, -platform, FORGE, -loaderJarName, fmlloader-1.20.1-47.4.0.jar, -minecraftVersion, 1.20.1, -childProcessesPIDs, VU5ERUZJTkVE, -crashAssistantModJarPath, C:\Users\user\AppData\Roaming\.minecraft\versions\All the Mods 9 - To the Sky - atm9sky atm9sky-1.1.8\mods\CrashAssistant-forge-1.19.2-1.20.1-1.8.0.jar, -log4jApi, C:\Users\user\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar, -log4jCore, C:\Users\user\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar, -googleGson, C:\Users\user\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar, -commonIo, C:\Users\user\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar, -lwjglNatives, C:\Users\user\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar, -processor, 12th Gen Intel(R) Core(TM) i5-12450HX, -serialisedGPUs, VnVsa2FuIGNsYXNzZXMgb3IgbHdqZ2xOYXRpdmVzIG5vdCBmb3VuZCwgZmFsbGluZyBiYWNrIHRvIERpcmVjdFgKU3VjY2Vzc2Z1bGx5IGRldGVjdGVkIEdQVXMgdXNpbmcgRGlyZWN0WDoKSmF2YSB2ZXJzaW9uIGlzIDw9IDIxLiBVc2luZyBKTkkuCklOVEVHUkFURUQgOiBJbnRlbChSKSBVSEQgR3JhcGhpY3MKSU5URUdSQVRFRCA6IEludGVsKFIpIFVIRCBHcmFwaGljcwpERURJQ0FURUQgOiBOVklESUEgR2VGb3JjZSBSVFggNDA1MCBMYXB0b3AgR1BVCg==, -recursiveStart]
+[2025-07-14 22:39:34.930] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running from: C:\Users\user\AppData\Roaming\.minecraft\versions\All the Mods 9 - To the Sky - atm9sky atm9sky-1.1.8
+[2025-07-14 22:39:34.930] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 9192
+[2025-07-14 22:39:34.930] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent started: 1752514732088
+[2025-07-14 22:39:34.932] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Platform: FORGE
+[2025-07-14 22:39:34.932] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: loaderJarName: fmlloader-1.20.1-47.4.0.jar
+[2025-07-14 22:39:34.932] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: minecraftVersion: 1.20.1
+[2025-07-14 22:39:34.932] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: childProcessesPIDs: UNDEFINED
+[2025-07-14 22:39:34.933] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: crashAssistantJarName: CrashAssistant-forge-1.19.2-1.20.1-1.8.0.jar
+[2025-07-14 22:39:34.937] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java path: C:\Users\user\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\windows\java-runtime-gamma\bin\javaw.exe
+[2025-07-14 22:39:34.937] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java version: 17.0.8+7-LTS
+[2025-07-14 22:39:34.937] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Boot.serialisedGPUs:
+Vulkan classes or lwjglNatives not found, falling back to DirectX
+Successfully detected GPUs using DirectX:
+Java version is <= 21. Using JNI.
+INTEGRATED : Intel(R) UHD Graphics
+INTEGRATED : Intel(R) UHD Graphics
+DEDICATED : NVIDIA GeForce RTX 4050 Laptop GPU
+
+[2025-07-14 22:39:34.976] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp started successfully. Waiting for PID 9192 to stop.
+[2025-07-14 22:40:35.469] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Minecraft is running on renderer:
+NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2
+[2025-07-15 01:42:47.242] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: PID "9192" is not alive or reused by another process. Minecraft JVM appears to have stopped.
+[2025-07-15 01:42:47.940] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding latest.log from C:\Users\user\AppData\Roaming\.minecraft\versions\All the Mods 9 - To the Sky - atm9sky atm9sky-1.1.8\logs\latest.log
+[2025-07-15 01:42:48.292] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding tlauncher_07_14_2025_22_38_15.log from C:\Users\user\AppData\Roaming\.tlauncher\logs\tlauncher\tlauncher_07_14_2025_22_38_15.log
+[2025-07-15 01:42:48.337] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: client.log from C:\Users\user\AppData\Roaming\.minecraft\versions\All the Mods 9 - To the Sky - atm9sky atm9sky-1.1.8\logs\kubejs\client.log
+[2025-07-15 01:42:48.382] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: startup.log from C:\Users\user\AppData\Roaming\.minecraft\versions\All the Mods 9 - To the Sky - atm9sky atm9sky-1.1.8\logs\kubejs\startup.log
+[2025-07-15 01:42:48.449] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crash_assistant_app.log from C:\Users\user\AppData\Roaming\.minecraft\versions\All the Mods 9 - To the Sky - atm9sky atm9sky-1.1.8\logs\crash_assistant\crash_assistant_app.log
+[2025-07-15 01:42:48.452] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reached first tick of TitleScreen: true
+[2025-07-15 01:42:48.452] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Joined world successfully: false
+[2025-07-15 01:42:48.452] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Stop function of Minecraft fired: true
+[2025-07-15 01:42:48.454] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft finished normally. Trying to locate terminated processes and Exiting Crash Assistant app.
